@@ -1,0 +1,16 @@
+[
+    {
+        "strata": {
+            "language": [
+                "NAN"
+            ],
+            "locc": [
+                "PS",
+                "PR",
+                "PZ"
+            ]
+        },
+        "n": 1000,
+        "output_dir": "~/surfdrive/Data/PG_sample"
+    }
+]
